@@ -2,10 +2,10 @@
 <html lang="ru">
 <head>
 <link rel="stylesheet" href="style.css">
-<meta charset="utf-8" />
+<meta charset="utf-8>
 <title>Захар Кузьмин</title>
 </head>
-<body bgcolor ="#000000"> 
+<body> 
 <font color ="#00ffff"><h2>Меня зовут ... 
 Мне ...
 Учусь В ...
