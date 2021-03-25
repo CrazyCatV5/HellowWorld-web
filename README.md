@@ -10,7 +10,7 @@
 Учусь В ...
 Увлекаюсь ...</h2></font>
 </pre>
-<img src ="">
+<img src ="https://sun9-63.userapi.com/impf/HKRNt6skb1LQE_vj5QscYQ6t-Nw-Lk7OYMhbJw/sns69DBLrv0.jpg?size=820x1093&quality=96&sign=25c5471d911a9c0ac55812aead1e0b23&type=album">
 </body>
 </html>
 
