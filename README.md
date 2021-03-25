@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+<link rel="stylesheet" href="style.css">
 <meta charset="utf-8" />
 <title>Захар Кузьмин</title>
 </head>
